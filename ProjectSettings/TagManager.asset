@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Food
+  - Boundary
+  - Snake
+  - Robot
+  - Body
+  - RobotHead
+  - FinalScoreText
+  - BestScoreText
+  - remove
+  - show
+  - Item
+  - Token
+  - Tokens Text
+  - Score Text
+  - BodyContainer
+  - Snake Text
+  - TokenPopContainer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - LocalPlayer
+  - Water
+  - UI
+  - RobotComponents
+  - ForeignPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

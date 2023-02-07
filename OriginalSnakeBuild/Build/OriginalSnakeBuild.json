@@ -1,0 +1,16 @@
+{
+"companyName": "Game Designer Online",
+"productName": "Slither IO Clone",
+"productVersion": "0.3",
+"dataUrl": "OriginalSnakeBuild.data.unityweb",
+"wasmCodeUrl": "OriginalSnakeBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "OriginalSnakeBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.21f1"
+}

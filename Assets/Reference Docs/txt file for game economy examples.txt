@@ -1,0 +1,49 @@
+because there is a token that goes with this We need to think of how we'll do the token part (ICO, launchpad, percentages)
+
+https://worldsofdrhems.io/hems-token.pdf
+
+
+As an example from Victor he was saying:
+
+For example, something like this
+
+- "Rarities of snakes NFTs affect snaking value, but do not affect performance. This means a Classic Sammy Snake and a Common Sammy Snake will perform equally well in battles. All snakes of the same rarity have the same base snaking weight which means all Classic Sammy Snakes without additional mutable attributes such as wins and kills will have the same snaking weight."
+
+This is stuff that we need written out for example
+
+
+These are some of the things that have nothing to do with smart-contracts and the coding itself but rather economics. It's very important that you define these things, write it all down and maybe have an economist or someone run some simulations so that we can ensure our game wont be broken and all that.
+
+These things include but are not limited to:
+- token supply
+- initial supply
+- circulating supply
+- max supply
+
+- allocation and distribution of tokens
+- will there be a pre-sale before going public?
+- how many tokens will be issued at first?
+- what percentage stays with the team? etc
+- how much will go for "in-game rewards"?
+- important to know otherwise how can we figure out how many tokens we'll be giving away to people by executing the in-game actions
+
+- market capitalization
+- token model:
+- inflationary? deflationary?
+- does it have a max supply?
+
+---------
+Something else you need to define @Blake Zibara is:
+- number of NFTs in the original collection
+- how many snakes
+- how many incubators
+- how many food seeds
+- this will allow us to set attributes to each
+- About packs:
+- also, how often will we release packs?
+- what's gonna be in each pack?
+- what is the incentive for someone to buy a bunch of packs if we only have a handful of NFTs?
+- we need to have this defined upfront, otherwise this makes it much more difficult for us to define all the tables with all the in-game attributes.
+
+https://farmersworld.io/getting-started
+https://farmersworld.medium.com/crops-farm-animals-features-fa487e9388b0
